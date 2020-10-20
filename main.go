@@ -30,7 +30,7 @@ func main() {
 
 	for _, team := range teams {
 		log.Println("-----------------------")
-		log.Println("Name: %v", team.Name)
+		log.Printf("Name: %s", team.Name)
 		log.Println("-----------------------")
 	}
 
