@@ -1,3 +1,3 @@
-module github.com/padilladan/NHL-API
+module github.com/NHL-API
 
-go 1.15
+go 1.16
